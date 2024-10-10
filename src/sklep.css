@@ -1,0 +1,27 @@
+#row{
+    width: 60%;
+    height: 20%;
+clear: both;
+}
+#product{
+    width: 15%;
+    margin: 10px ;
+    padding: 10px;
+    height: 20%;
+    float: left;
+    border: orange solid 1px;
+    text-align: left;
+}
+#main{
+    width: 80%;
+    height: 60%;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+#ikonka{
+    float: right;
+    height: 40%;
+    width: 40%;
+}
